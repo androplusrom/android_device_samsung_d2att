@@ -1,5 +1,6 @@
 [
   {
+    "remote": "github",
     "repository": "nickdoherty81/android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common"
   }
